@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/bouncer/static/css/main.c2167011.chunk.css",
-    "main.js": "/bouncer/static/js/main.11c13d6e.chunk.js",
-    "main.js.map": "/bouncer/static/js/main.11c13d6e.chunk.js.map",
-    "runtime-main.js": "/bouncer/static/js/runtime-main.41ed5736.js",
-    "runtime-main.js.map": "/bouncer/static/js/runtime-main.41ed5736.js.map",
-    "static/js/2.c5505cfb.chunk.js": "/bouncer/static/js/2.c5505cfb.chunk.js",
-    "static/js/2.c5505cfb.chunk.js.map": "/bouncer/static/js/2.c5505cfb.chunk.js.map",
-    "index.html": "/bouncer/index.html",
-    "static/css/main.c2167011.chunk.css.map": "/bouncer/static/css/main.c2167011.chunk.css.map",
-    "static/js/2.c5505cfb.chunk.js.LICENSE.txt": "/bouncer/static/js/2.c5505cfb.chunk.js.LICENSE.txt",
-    "static/media/Dashboard.png": "/bouncer/static/media/Dashboard.ccc8bbef.png",
-    "static/media/HeroCombined.png": "/bouncer/static/media/HeroCombined.f7b0b048.png",
-    "static/media/MobilePreview.webm": "/bouncer/static/media/MobilePreview.370c0576.webm"
+    "main.css": "/bouncer_landing_page/static/css/main.3a981330.chunk.css",
+    "main.js": "/bouncer_landing_page/static/js/main.27c9bfe6.chunk.js",
+    "main.js.map": "/bouncer_landing_page/static/js/main.27c9bfe6.chunk.js.map",
+    "runtime-main.js": "/bouncer_landing_page/static/js/runtime-main.57e30a18.js",
+    "runtime-main.js.map": "/bouncer_landing_page/static/js/runtime-main.57e30a18.js.map",
+    "static/js/2.fc567e80.chunk.js": "/bouncer_landing_page/static/js/2.fc567e80.chunk.js",
+    "static/js/2.fc567e80.chunk.js.map": "/bouncer_landing_page/static/js/2.fc567e80.chunk.js.map",
+    "index.html": "/bouncer_landing_page/index.html",
+    "static/css/main.3a981330.chunk.css.map": "/bouncer_landing_page/static/css/main.3a981330.chunk.css.map",
+    "static/js/2.fc567e80.chunk.js.LICENSE.txt": "/bouncer_landing_page/static/js/2.fc567e80.chunk.js.LICENSE.txt",
+    "static/media/Berbix-Logo.svg": "/bouncer_landing_page/static/media/Berbix-Logo.d0615d7e.svg",
+    "static/media/Dashboard.png": "/bouncer_landing_page/static/media/Dashboard.b84cf2ed.png",
+    "static/media/Hero.png": "/bouncer_landing_page/static/media/Hero.a636eb54.png",
+    "static/media/MobilePreview.gif": "/bouncer_landing_page/static/media/MobilePreview.ca319185.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.41ed5736.js",
-    "static/js/2.c5505cfb.chunk.js",
-    "static/css/main.c2167011.chunk.css",
-    "static/js/main.11c13d6e.chunk.js"
+    "static/js/runtime-main.57e30a18.js",
+    "static/js/2.fc567e80.chunk.js",
+    "static/css/main.3a981330.chunk.css",
+    "static/js/main.27c9bfe6.chunk.js"
   ]
 }
