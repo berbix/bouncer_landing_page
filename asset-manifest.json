@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/bouncer_landing_page/static/css/main.3a981330.chunk.css",
-    "main.js": "/bouncer_landing_page/static/js/main.27c9bfe6.chunk.js",
-    "main.js.map": "/bouncer_landing_page/static/js/main.27c9bfe6.chunk.js.map",
+    "main.css": "/bouncer_landing_page/static/css/main.fcaa4716.chunk.css",
+    "main.js": "/bouncer_landing_page/static/js/main.5eb8f9f9.chunk.js",
+    "main.js.map": "/bouncer_landing_page/static/js/main.5eb8f9f9.chunk.js.map",
     "runtime-main.js": "/bouncer_landing_page/static/js/runtime-main.57e30a18.js",
     "runtime-main.js.map": "/bouncer_landing_page/static/js/runtime-main.57e30a18.js.map",
-    "static/js/2.fc567e80.chunk.js": "/bouncer_landing_page/static/js/2.fc567e80.chunk.js",
-    "static/js/2.fc567e80.chunk.js.map": "/bouncer_landing_page/static/js/2.fc567e80.chunk.js.map",
+    "static/js/2.39ba0a2a.chunk.js": "/bouncer_landing_page/static/js/2.39ba0a2a.chunk.js",
+    "static/js/2.39ba0a2a.chunk.js.map": "/bouncer_landing_page/static/js/2.39ba0a2a.chunk.js.map",
     "index.html": "/bouncer_landing_page/index.html",
-    "static/css/main.3a981330.chunk.css.map": "/bouncer_landing_page/static/css/main.3a981330.chunk.css.map",
-    "static/js/2.fc567e80.chunk.js.LICENSE.txt": "/bouncer_landing_page/static/js/2.fc567e80.chunk.js.LICENSE.txt",
+    "static/css/main.fcaa4716.chunk.css.map": "/bouncer_landing_page/static/css/main.fcaa4716.chunk.css.map",
+    "static/js/2.39ba0a2a.chunk.js.LICENSE.txt": "/bouncer_landing_page/static/js/2.39ba0a2a.chunk.js.LICENSE.txt",
     "static/media/Berbix-Logo.svg": "/bouncer_landing_page/static/media/Berbix-Logo.d0615d7e.svg",
-    "static/media/Dashboard.png": "/bouncer_landing_page/static/media/Dashboard.b84cf2ed.png",
-    "static/media/Hero.png": "/bouncer_landing_page/static/media/Hero.a636eb54.png",
+    "static/media/CatchFakeIDs.svg": "/bouncer_landing_page/static/media/CatchFakeIDs.67411540.svg",
+    "static/media/CustomSettings.svg": "/bouncer_landing_page/static/media/CustomSettings.79d9e425.svg",
+    "static/media/Dashboard.png": "/bouncer_landing_page/static/media/Dashboard.57489bb6.png",
+    "static/media/Hero.png": "/bouncer_landing_page/static/media/Hero.0e282729.png",
+    "static/media/LongLines.svg": "/bouncer_landing_page/static/media/LongLines.b5f36bb8.svg",
     "static/media/MobilePreview.gif": "/bouncer_landing_page/static/media/MobilePreview.ca319185.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.57e30a18.js",
-    "static/js/2.fc567e80.chunk.js",
-    "static/css/main.3a981330.chunk.css",
-    "static/js/main.27c9bfe6.chunk.js"
+    "static/js/2.39ba0a2a.chunk.js",
+    "static/css/main.fcaa4716.chunk.css",
+    "static/js/main.5eb8f9f9.chunk.js"
   ]
 }
